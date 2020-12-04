@@ -1,1 +1,1 @@
-# strike-dev
+# TedeaPolis Strike Systeem
